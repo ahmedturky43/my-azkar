@@ -1,0 +1,183 @@
+nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    padding: 20px;
+    color: white;
+    font-size: 24px;
+    font-weight: bolder;
+
+}
+
+
+nav img {
+    position: absolute;
+    right: 4px;
+    top: 6px;
+    width: 62px;
+    height: 62px;
+}
+
+.-hm {
+    position: fixed;
+    background-color: #E91E63;
+    width: 50px;
+    height: 64px;
+    border-radius: 10px;
+}
+
+.-hm span {
+    position: fixed;
+    left: 13px;
+    top: 141px;
+    color: white;
+}
+
+body {
+    /* min-height: 4000px; */
+    background-image: url("../Images/bac.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.-p1 {
+    margin-top: 98px;
+    font-variant: small-caps;
+    line-height: 1.4;
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 619px;
+    text-align: center;
+    font-size: 30px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.-p2,
+.-p3,
+.-p4,
+.-p5,
+.-p6,
+.-p7,
+.-p8,
+.-p9,
+.-p10,
+.-p11,
+.-p12,
+.-p13,
+.-p14,
+.-p15,
+.-p16,
+.-p17,
+.-p18,
+.-p19,
+.-p20,
+.-p21,
+.-p22,
+.-p23,
+.-p24,
+.-p25,
+.-p26,
+.-p27,
+.-p28,
+.-p29,
+.-p30 {
+
+    font-variant: small-caps;
+    line-height: 1.4;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 87px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 619px;
+    text-align: center;
+    font-size: 30px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+/* .-p1 p,
+.-p2 p,
+.-p3 p,
+.-p4 p{
+    margin-top: -45px;
+} */
+
+.-p1 span,
+.-p2 span,
+.-p3 span,
+.-p4 span,
+.-p5 span, 
+.-p6 span,
+.-p7 span,
+.-p8 span,
+.-p9 span,
+.-p10 span,
+.-p11 span,
+.-p12 span,
+.-p13 span,
+.-p14 span,
+.-p15 span,
+.-p16 span,
+.-p17 span,
+.-p18 span,
+.-p19 span,
+.-p20 span,
+.-p21 span,
+.-p22 span,
+.-p23 span,
+.-p24 span,
+.-p25 span,
+.-p26 span,
+.-p27 span,
+.-p28 span,
+.-p29 span,
+.-p30 span {
+    color: rgb(214, 255, 80);
+    font-size: 18px;
+}
+
+.-p1,
+.-p2,
+.-p3,
+.-p4,
+.-p5,
+.-p6,
+.-p7,
+.-p8,
+.-p9,
+.-p10,
+.-p11,
+.-p12,
+.-p13,
+.-p14,
+.-p15,
+.-p16,
+.-p17,
+.-p18,
+.-p19,
+.-p20,
+.-p21,
+.-p22,
+.-p23,
+.-p24,
+.-p25,
+.-p26,
+.-p27,
+.-p28,
+.-p29,
+.-p30,
+nav {
+    color: white;
+    background-color: #3F51B5;
+}
